@@ -1,10 +1,3 @@
 # Site settings
 title: Vision Agency Ba
-author:
-  name: Vision Agency Limited
-  email: ignaciogp08@gmail.com
-description: "Desarrolladora y consultaria de páginas web."
-
-# Build settings
-remote_theme: jekyll/minima
 theme: jekyll-theme-cayman
