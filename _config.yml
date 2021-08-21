@@ -1,10 +1,8 @@
 # Site settings
 title: Inicio
 
-author:
-  name: Ignacio Garcia Pizales
-  email: ignaciogp08@gmail.com
-  
+author: Ignacio Garcia Pizales
+email: ignaciogp08@gmail.com 
 description: "Consultoría desarrollo web"
 
 # Build settings
