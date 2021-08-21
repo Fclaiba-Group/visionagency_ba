@@ -8,4 +8,4 @@ author:
 description: "Consultoría desarrollo web"
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
