@@ -1,3 +1,8 @@
 # Site settings
-title: Vision Agency Ba
+title: VA Ba
 theme: jekyll-theme-cayman
+
+author:
+  name: Autores
+  email: ignaciogp08@gmail.com
+description: "Consultoría desarrollo web"
