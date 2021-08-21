@@ -1,4 +1,2 @@
 # Vision Agency BA
-Diseñamos websites profesionales
-
-<title>Vision Agency BA</title>
+Diseñamos websites profesionales para empresas exigentes
