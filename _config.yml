@@ -1,6 +1,5 @@
 # Site settings
 title: Inicio
-theme: jekyll-theme-cayman
 
 author:
   name: Ignacio Garcia Pizales
@@ -9,4 +8,4 @@ author:
 description: "Consultoría desarrollo web"
 
 # Build settings
-remote_theme: jekyll/minima
+theme: jekyll-theme-cayman
