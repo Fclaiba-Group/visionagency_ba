@@ -6,4 +6,5 @@ email: ignaciogp08@gmail.com
 description: "Consultoría desarrollo web"
 
 # Build settings
+markdown: kramdown
 theme: minima
